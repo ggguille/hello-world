@@ -1,2 +1,7 @@
 # hello-world
-initial github repo
+
+Initial github repo.
+
+ggguille is here in github! Better late than never.
+
+Full-stack Developer
